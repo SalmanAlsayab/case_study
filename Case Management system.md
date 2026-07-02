@@ -27,7 +27,7 @@ Given the current experience of the team and the requirements for this project, 
 
 
 ### 1.4 Component Diagrams
-([Component Diagrams](https://github.com/SalmanAlsayab/case_study/blob/main/Screenshot%202026-07-02%20215252.png))
+![Component Diagrams](https://github.com/SalmanAlsayab/case_study/blob/main/Screenshot%202026-07-02%20215252.png)
 
 
 
@@ -52,7 +52,7 @@ In version 1 of the system the focus is on building a useful albeit limited syst
 - **cases**: The central operational table tracking the core work items, their active workflow, current stage, and assignee, utilizing a dynamic metadata block for custom configuration fields.
 - **case_history**: An immutable logging ledger that records every historical state change, transition, and update performed on a case for auditing purposes.
 ### 2.2 Entity Relational Diagram
-([Entity Relational Diagram](https://github.com/SalmanAlsayab/case_study/blob/main/Screenshot%202026-07-02%20215443.png))
+![Entity Relational Diagram](https://github.com/SalmanAlsayab/case_study/blob/main/Screenshot%202026-07-02%20215443.png)
 
 
 ## 3. API Design
