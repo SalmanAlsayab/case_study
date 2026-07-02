@@ -27,7 +27,7 @@ Given the current experience of the team and the requirements for this project, 
 
 
 ### 1.4 Component Diagrams
-[![Components Diagram](https://app.eraser.io/workspace/FqPVitrKNOsQbBW8PHxh/preview?figure=s0ZYf-Q01Q3MNEg9Bj1tw&type=embed)](https://app.eraser.io/workspace/FqPVitrKNOsQbBW8PHxh?figure=s0ZYf-Q01Q3MNEg9Bj1tw)
+[![Components Diagram](Screenshot 2026-07-02 215252.png)
 
 
 
